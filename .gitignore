@@ -1,0 +1,81 @@
+# Build results
+[Bb]in/
+[Oo]bj/
+out/
+artifacts/
+
+# Rider
+.idea/
+*.sln.iml
+
+# VS Code
+.vscode/
+
+# Visual Studio
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.cache
+*.dbmdl
+*.VC.db
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Publish outputs
+*.publishsettings
+publish/
+
+# DotCover
+*.dotCover
+
+# Azure Pipelines
+.azdo/
+
+# Global JSON
+global.json
+
+# User secrets
+secrets.json
+
+# dotnet watch
+**/tmp/
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# NuGet packages
+*.nupkg
+*.snupkg
+*.nuspec
+*.psmdcp
+*.symbols.nupkg
+packages/
+*.lock.json
+
+# Logs
+*.log
+
+# Resharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+
+# Tye
+.tye/
+
+# Coverage
+coverage/
+*.coverage
+*.coveragexml
+TestResults/
+
+# Docker
+**/.dockerignore
+**/Dockerfile
+docker-compose*
+
+# Optional: ignore environment-specific config
+appsettings.*.json
