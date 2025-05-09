@@ -19,6 +19,7 @@ artifacts/
 *.cache
 *.dbmdl
 *.VC.db
+**/.vs/
 
 # ASP.NET Scaffolding
 ScaffoldingReadMe.txt
