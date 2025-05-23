@@ -33,6 +33,5 @@ namespace FactoryMethod
 
             _notificacao.Enviar(mensagem);
         }
-
     }
 }
