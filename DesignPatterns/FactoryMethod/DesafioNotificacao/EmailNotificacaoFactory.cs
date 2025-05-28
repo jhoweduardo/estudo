@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace FactoryMethod
 {
-    public class EmailNotificacaoFactory : NotificacaoFactory
+    public class EmailNotificacaoFactory : NotificacaoFactory 
     {
         public override INotificacao CriarNotificacao() => new EmailNotificacao();
     }
